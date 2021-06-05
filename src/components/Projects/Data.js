@@ -5,7 +5,6 @@ import ReduxLogo from "../../images/redux.png";
 import pj1Pic from "../../images/pj1-img.png";
 import pj2Pic from "../../images/pj2-img.png";
 import pj3Pic from "../../images/pj3-img.png";
-import pjPortfolio from "../../images/pj-portfolio.png";
 import yummyMenu from "../../images/yummy-menu.png";
 import BusinessBlog from "../../images/business-blog.png";
 import BarBlog from "../../images/bar-blog.png";
