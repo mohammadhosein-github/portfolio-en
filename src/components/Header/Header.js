@@ -53,7 +53,7 @@ function Header() {
           </div>
 
           <div className="col-12 col-md-7 col-xl-6 text-area text-left">
-            <h1 className="text-capitalize">hi, my name is farhad</h1>
+            <h1 className="text-capitalize">hi, my name is Mohammad</h1>
             <div className="my-stroke"></div>
             <p className="text-capitalize">
               i am a 21 years old front-end developer, with strong understanding
