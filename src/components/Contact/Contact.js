@@ -23,7 +23,7 @@ function Contact() {
 
           <div className="col-lg-5">
             <form
-              action="https://formspree.io/mohammadhosein.forbusiness@gmail.com"
+              action="https://formspree.io/f/xbjqybep"
               method="POST"
               className="form-group"
             >
